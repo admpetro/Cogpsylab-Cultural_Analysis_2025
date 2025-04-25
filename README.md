@@ -1,2 +1,2 @@
 # Cogpsylab-Cultural_Analysis_2025
-cogpsylab project
+cognitive psychology laboratory project

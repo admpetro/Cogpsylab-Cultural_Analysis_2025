@@ -1,0 +1,725 @@
+"soc_id","High god","Class differentiation","Lat","Long"
+"Aa1","Active, but not supporting morality","Absence of distinctions",-20,21
+"Aa2","Absent","Absence of distinctions",0,36
+"Aa3","Absent","Wealth distinctions",-26,18
+"Aa5","Absent","Absence of distinctions",2,28
+"Aa6","Otiose","Absence of distinctions",-5,36
+"Aa7","Otiose","Absence of distinctions",-20,24
+"Aa9","Absent","Absence of distinctions",-3,35
+"Ab10","Absent","Wealth distinctions",-31,30
+"Ab13","Active, supporting morality","Elite stratification",-24,27
+"Ab14","Otiose","Dual stratification",-24,31
+"Ab2","Absent","Dual stratification",-27,32
+"Ab3","Otiose","Dual stratification",-15,23
+"Ab5","Otiose","Dual stratification",-12,16
+"Ab6","Active, but not supporting morality","Dual stratification",-23,30
+"Ab8","Absent","Dual stratification",-29,28
+"Ab9","Otiose","Elite stratification",-20,28
+"Ac1","Otiose","Wealth distinctions",-16,27
+"Ac10","Absent","Absence of distinctions",-14,33
+"Ac11","Otiose","Absence of distinctions",-12,22
+"Ac13","Otiose","Absence of distinctions",-12,34
+"Ac17","Otiose","Dual stratification",-6,18
+"Ac23","Absent","Dual stratification",-5,21
+"Ac27","Otiose","Absence of distinctions",-13,23
+"Ac3","Active, but not supporting morality","Dual stratification",-11,31
+"Ac30","Active, but not supporting morality","Absence of distinctions",-18,28
+"Ac31","Otiose","Dual stratification",-7,28
+"Ac33","Otiose","Dual stratification",-15,31
+"Ac34","Active, but not supporting morality","Dual stratification",-10,29
+"Ac36","Active, but not supporting morality","Dual stratification",-12,34
+"Ac4","Otiose","Dual stratification",-5,22
+"Ac5","Otiose","Absence of distinctions",-13,28
+"Ac7","Absent","Absence of distinctions",-13,36
+"Ac9","Absent","Dual stratification",-12,33
+"Ad11","Active, supporting morality","Dual stratification",-9,36
+"Ad13","Otiose","Absence of distinctions",-3,30
+"Ad14","Otiose","Absence of distinctions",-8,38
+"Ad15","Otiose","Dual stratification",-10,32
+"Ad16","Absent","Dual stratification",-10,34
+"Ad17","Otiose","Dual stratification",-8,33
+"Ad19","Otiose","Dual stratification",-8,31
+"Ad2","Otiose","Dual stratification",2,32
+"Ad20","Otiose","Dual stratification",-5,33
+"Ad21","Otiose","Dual stratification",-7,31
+"Ad22","Otiose","Dual stratification",-3,34
+"Ad28","Otiose","Absence of distinctions",-5.84,38.79
+"Ad29","Active, supporting morality","Dual stratification",-6.07,39.43
+"Ad3","Absent","Dual stratification",-3,37
+"Ad32","Absent","Absence of distinctions",-3,40
+"Ad4","Active, but not supporting morality","Wealth distinctions",-1,37
+"Ad42","Otiose","Dual stratification",-1,32
+"Ad44","Otiose","Absence of distinctions",-1,30
+"Ad45","Otiose","Elite stratification",0,31
+"Ad47","Otiose","Dual stratification",-4,32
+"Ad48","Otiose","Dual stratification",1,31
+"Ad49","Otiose","Dual stratification",-3,31
+"Ad50","Otiose","Absence of distinctions",-6,37
+"Ad51","Otiose","Absence of distinctions",-6,38
+"Ad6","Otiose","Absence of distinctions",-9,34
+"Ad7","Otiose","Dual stratification",1,32
+"Ad9","Otiose","Wealth distinctions",1,34
+"Ae1","Absent","Absence of distinctions",1,30
+"Ae10","Otiose","Complex stratification",-2,30
+"Ae11","Otiose","Absence of distinctions",-4,26
+"Ae12","Otiose","Wealth distinctions",4,10
+"Ae14","Otiose","Dual stratification",-5,30
+"Ae17","Otiose","Absence of distinctions",-3,28
+"Ae18","Otiose","Wealth distinctions",-6,25
+"Ae2","Otiose","Wealth distinctions",4.22,9.27
+"Ae28","Otiose","Wealth distinctions",1,18
+"Ae3","Otiose","Wealth distinctions",1,11
+"Ae39","Absent","Absence of distinctions",2,20
+"Ae4","Otiose","Absence of distinctions",0,20
+"Ae50","Active, but not supporting morality","Dual stratification",6,11
+"Ae51","Otiose","Absence of distinctions",5,11
+"Ae56","Active, but not supporting morality","Dual stratification",6,11
+"Ae6","Otiose","Dual stratification",-8,26
+"Ae7","Absent","Absence of distinctions",3,25
+"Ae8","Otiose","Complex stratification",-3,30
+"Ae9","Active, but not supporting morality","Dual stratification",6,10
+"Af1","Absent","Dual stratification",7,2
+"Af10","Otiose","Absence of distinctions",6,7
+"Af11","Otiose","Absence of distinctions",11,-9
+"Af13","Otiose","Dual stratification",8,7
+"Af15","Otiose","Wealth distinctions",7,-9
+"Af19","Otiose","Wealth distinctions",5,8
+"Af20","Otiose","Wealth distinctions",5,8
+"Af22","Otiose","Dual stratification",6,5
+"Af23","Absent","Wealth distinctions",6,8
+"Af24","Otiose","Dual stratification",6,6
+"Af25","Otiose","Wealth distinctions",5,6
+"Af3","Otiose","Dual stratification",7,-2
+"Af32","Otiose","Dual stratification",7,3
+"Af33","Otiose","Dual stratification",8,5
+"Af34","Otiose","Dual stratification",7,5
+"Af36","Otiose","Dual stratification",7,1
+"Af4","Absent","Absence of distinctions",6,8
+"Af42","Otiose","Dual stratification",6,-1
+"Af5","Otiose","Dual stratification",8,-11
+"Af54","Otiose","Absence of distinctions",8,-10
+"Af6","Otiose","Complex stratification",8,4
+"Af7","Absent","Absence of distinctions",6,-7
+"Af8","Active, supporting morality","Complex stratification",9,6
+"Ag1","Absent","Dual stratification",13,-7
+"Ag10","Otiose","Absence of distinctions",10,0
+"Ag12","Otiose","Absence of distinctions",10,-1
+"Ag2","Otiose","Complex stratification",13,-2
+"Ag21","Otiose","Absence of distinctions",12,-13
+"Ag25","Active, supporting morality","Dual stratification",15,10
+"Ag27","Active, supporting morality","Wealth distinctions",9,-4
+"Ag28","Active, supporting morality","Complex stratification",14,-4
+"Ag4","Absent","Wealth distinctions",11,-1
+"Ag41","Otiose","Absence of distinctions",11,0
+"Ag47","Otiose","Dual stratification",12,-2
+"Ag49","Otiose","Absence of distinctions",10,2
+"Ag5","Otiose","Absence of distinctions",10,-3
+"Ag50","Otiose","Absence of distinctions",11,1
+"Ag54","Active, supporting morality","Absence of distinctions",10,-12
+"Ag6","Active, supporting morality","Dual stratification",11,-13
+"Ag7","Active, supporting morality","Absence of distinctions",14,-5
+"Ag8","Otiose","Absence of distinctions",13,-13
+"Ah1","Active, but not supporting morality","Absence of distinctions",10,8
+"Ah10","Active, but not supporting morality","Absence of distinctions",10,9
+"Ah13","Otiose","Absence of distinctions",12,5
+"Ah14","Otiose","Absence of distinctions",11,6
+"Ah19","Otiose","Absence of distinctions",10,8
+"Ah20","Otiose","Absence of distinctions",10,8
+"Ah3","Absent","Absence of distinctions",7,9
+"Ah36","Otiose","Dual stratification",10,13
+"Ah38","Otiose","Absence of distinctions",11,14
+"Ah39","Otiose","Absence of distinctions",11,14
+"Ah6","Otiose","Absence of distinctions",10,8
+"Ah7","Otiose","Absence of distinctions",11,14
+"Ah9","Active, but not supporting morality","Absence of distinctions",10,9
+"Ai1","Otiose","Absence of distinctions",7,22
+"Ai11","Otiose","Dual stratification",3,28
+"Ai12","Otiose","Absence of distinctions",10,14
+"Ai18","Active, supporting morality","Dual stratification",12,15
+"Ai20","Active, but not supporting morality","Absence of distinctions",10,15
+"Ai21","Active, supporting morality","Dual stratification",11,17
+"Ai23","Otiose","Absence of distinctions",3,19
+"Ai25","Otiose","Absence of distinctions",4,21
+"Ai26","Otiose","Absence of distinctions",4,22
+"Ai28","Otiose","Absence of distinctions",2,26
+"Ai29","Otiose","Absence of distinctions",2,30
+"Ai3","Active, but not supporting morality","Dual stratification",5,27
+"Ai30","Otiose","Absence of distinctions",2,29
+"Ai31","Otiose","Dual stratification",3,30
+"Ai32","Otiose","Absence of distinctions",3,32
+"Ai33","Otiose","Absence of distinctions",4,32
+"Ai35","Otiose","Absence of distinctions",7,29
+"Ai47","Otiose","Absence of distinctions",9,35
+"Ai5","Otiose","Absence of distinctions",3,29
+"Ai6","Otiose","Complex stratification",10,32
+"Ai7","Otiose","Absence of distinctions",6,16
+"Ai9","Otiose","Absence of distinctions",10,16
+"Aj1","Otiose","Absence of distinctions",2,34
+"Aj10","Otiose","Absence of distinctions",3,32
+"Aj11","Otiose","Absence of distinctions",9,29
+"Aj12","Active, but not supporting morality","Wealth distinctions",4,33
+"Aj13","Otiose","Elite stratification",4,31
+"Aj14","Otiose","Absence of distinctions",4,31
+"Aj15","Otiose","Elite stratification",4,32
+"Aj17","Otiose","Dual stratification",2,31
+"Aj21","Active, but not supporting morality","Wealth distinctions",3,34
+"Aj23","Otiose","Absence of distinctions",1,36
+"Aj26","Otiose","Absence of distinctions",1,36
+"Aj3","Active, supporting morality","Absence of distinctions",8,32
+"Aj4","Active, but not supporting morality","Wealth distinctions",2,33
+"Aj5","Active, but not supporting morality","Absence of distinctions",4,35
+"Aj6","Otiose","Wealth distinctions",-1,34
+"Aj7","Otiose","Absence of distinctions",0,35
+"Aj8","Otiose","Wealth distinctions",5,32
+"Aj9","Otiose","Absence of distinctions",-1,36
+"Ca1","Otiose","Wealth distinctions",6,37
+"Ca10","Active, supporting morality","Wealth distinctions",10,43
+"Ca11","Otiose","Absence of distinctions",8,40
+"Ca12","Active, supporting morality","Dual stratification",8,37
+"Ca14","Otiose","Absence of distinctions",5,38
+"Ca19","Otiose","Absence of distinctions",6,36
+"Ca2","Active, supporting morality","Wealth distinctions",8,48
+"Ca21","Otiose","Absence of distinctions",5,36
+"Ca22","Otiose","Absence of distinctions",6,37
+"Ca27","Otiose","Elite stratification",9,35
+"Ca28","Otiose","Dual stratification",6,37
+"Ca29","Active, but not supporting morality","Dual stratification",8,38
+"Ca3","Active, supporting morality","Complex stratification",14,39
+"Ca30","Otiose","Dual stratification",7,36
+"Ca31","Active, supporting morality","Wealth distinctions",12,37
+"Ca36","Active, supporting morality","Elite stratification",18,38
+"Ca37","Active, supporting morality","Elite stratification",16,36
+"Ca38","Active, supporting morality","Elite stratification",17,39
+"Ca39","Active, supporting morality","Complex stratification",8,37
+"Ca40","Otiose","Wealth distinctions",6,38
+"Ca42","Otiose","Dual stratification",7,36
+"Ca5","Active, supporting morality","Absence of distinctions",20,35
+"Ca6","Active, supporting morality","Wealth distinctions",12,42
+"Ca7","Active, supporting morality","Complex stratification",13,38
+"Cb15","Active, supporting morality","Wealth distinctions",11,28
+"Cb17","Active, supporting morality","Dual stratification",12,24
+"Cb18","Active, supporting morality","Dual stratification",14,14
+"Cb19","Active, supporting morality","Dual stratification",12,13
+"Cb2","Active, supporting morality","Complex stratification",15,-17
+"Cb23","Active, supporting morality","Dual stratification",14.73,-14.32
+"Cb24","Active, supporting morality","Absence of distinctions",12,12
+"Cb25","Active, supporting morality","Wealth distinctions",14,8
+"Cb26","Active, supporting morality","Complex stratification",11,8
+"Cb3","Active, supporting morality","Complex stratification",17,-1
+"Cb4","Active, supporting morality","Wealth distinctions",14,32
+"Cb7","Active, supporting morality","Dual stratification",11,11
+"Cb9","Active, supporting morality","Dual stratification",12,9
+"Cc1","Active, supporting morality","Complex stratification",22,-13
+"Cc10","Active, supporting morality","Elite stratification",18,8
+"Cc11","Active, supporting morality","Elite stratification",25,10
+"Cc12","Active, supporting morality","Elite stratification",20,2
+"Cc13","Active, supporting morality","Elite stratification",16,0
+"Cc14","Active, supporting morality","Dual stratification",17,18
+"Cc16","Active, supporting morality","Elite stratification",32,3
+"Cc17","Active, supporting morality","Elite stratification",22,-15
+"Cc18","Active, supporting morality","Elite stratification",19,-1
+"Cc19","Active, supporting morality","Elite stratification",18,-15
+"Cc2","Active, supporting morality","Dual stratification",21,17
+"Cc20","Active, supporting morality","Elite stratification",18,-8
+"Cc3","Active, supporting morality","Wealth distinctions",29,26
+"Cc4","Active, supporting morality","Dual stratification",33,4
+"Cc5","Active, supporting morality","Elite stratification",18,-3
+"Cc6","Active, supporting morality","Wealth distinctions",17,31
+"Cc7","Active, supporting morality","Elite stratification",20,-5
+"Cc9","Active, supporting morality","Elite stratification",23,6
+"Cd1","Active, supporting morality","Wealth distinctions",23,33
+"Cd10","Active, supporting morality","Wealth distinctions",34,-2
+"Cd12","Active, supporting morality","Complex stratification",31,2
+"Cd13","Active, supporting morality","Wealth distinctions",30,9
+"Cd15","Active, supporting morality","Wealth distinctions",35,-5
+"Cd16","Active, supporting morality","Complex stratification",33,-8
+"Cd17","Active, supporting morality","Wealth distinctions",35,5
+"Cd18","Active, supporting morality","Elite stratification",30,28
+"Cd19","Active, supporting morality","Complex stratification",35,10.94
+"Cd2","Active, supporting morality","Complex stratification",25,33
+"Cd21","Active, supporting morality","Complex stratification",37,10
+"Cd3","Active, supporting morality","Wealth distinctions",35,-4
+"Cd4","Active, supporting morality","Absence of distinctions",36,4
+"Cd5","Active, supporting morality","Absence of distinctions",30,-9
+"Cd6","Absent","Complex stratification",30,31
+"Cd7","Active, supporting morality","Wealth distinctions",33,-7
+"Cd8","Active, supporting morality","Absence of distinctions",36,7
+"Ce1","Active, supporting morality","Absence of distinctions",42,20
+"Ce3","Absent","Complex stratification",42,12
+"Ce4","Active, supporting morality","Complex stratification",43,-1
+"Ce5","Active, supporting morality","Complex stratification",40.89,14.25
+"Ce6","Active, supporting morality","Complex stratification",37,-6
+"Ce7","Active, supporting morality","Complex stratification",39,23
+"Ce8","Active, supporting morality","Complex stratification",43,-2
+"Cf1","Active, supporting morality","Complex stratification",42,-73
+"Cf3","Active, supporting morality","Absence of distinctions",-37.11,-12.27
+"Cf4","Active, supporting morality","Complex stratification",-23.68,-46.64
+"Cf5","Active, supporting morality","Complex stratification",47,-72
+"Cg1","Active, supporting morality","Complex stratification",53,7
+"Cg2","Active, supporting morality","Elite stratification",64,-20
+"Cg3","Active, supporting morality","Complex stratification",53,-9
+"Cg4","Active, supporting morality","Wealth distinctions",68,22
+"Cg5","Active, supporting morality","Complex stratification",50,5
+"Ch1","Active, supporting morality","Complex stratification",44,20
+"Ch11","Active, supporting morality","Complex stratification",53,41
+"Ch2","Active, supporting morality","Wealth distinctions",49,24
+"Ch3","Active, supporting morality","Complex stratification",50,16
+"Ch4","Active, supporting morality","Elite stratification",43,46
+"Ch5","Active, supporting morality","Complex stratification",43,24
+"Ch6","Active, supporting morality","Complex stratification",55,28
+"Ch7","Active, supporting morality","Complex stratification",48,36
+"Ch8","Active, supporting morality","Complex stratification",47,20
+"Ch9","Active, supporting morality","Complex stratification",55,24
+"Ci10","Active, supporting morality","Wealth distinctions",40,45
+"Ci11","Active, supporting morality","Dual stratification",32,44
+"Ci12","Active, supporting morality","Complex stratification",43,41
+"Ci4","Active, supporting morality","Dual stratification",44,42
+"Ci5","Active, supporting morality","Complex stratification",38,30
+"Ci6","Active, supporting morality","Dual stratification",43,44
+"Ci8","Active, supporting morality","Dual stratification",42,45
+"Cj1","Active, supporting morality","Elite stratification",36,36
+"Cj10","Active, supporting morality","Dual stratification",31,47
+"Cj2","Active, supporting morality","Wealth distinctions",33,37
+"Cj3","Active, supporting morality","Dual stratification",32,35
+"Cj4","Absent","Complex stratification",32,45
+"Cj6","Active, supporting morality","Complex stratification",32,36
+"Cj7","Active, supporting morality","Complex stratification",34,36
+"Cj8","Active, supporting morality","Absence of distinctions",32.77,35.03
+"Cj9","Active, supporting morality","Dual stratification",15,45
+"Ea1","Active, supporting morality","Elite stratification",25,68
+"Ea10","Active, supporting morality","Dual stratification",30,69
+"Ea11","Active, supporting morality","Complex stratification",33,68
+"Ea12","Active, supporting morality","Dual stratification",30,52
+"Ea13","Active, supporting morality","Dual stratification",32,73
+"Ea2","Active, supporting morality","Complex stratification",35,72
+"Ea3","Active, supporting morality","Wealth distinctions",35,66
+"Ea4","Active, supporting morality","Elite stratification",35,73
+"Ea6","Active, supporting morality","Wealth distinctions",30,34
+"Ea7","Active, supporting morality","Wealth distinctions",34,63
+"Ea8","Active, supporting morality","Dual stratification",33,48
+"Ea9","Active, supporting morality","Elite stratification",36,52
+"Eb1","Active, supporting morality","Dual stratification",48,70
+"Eb5","Active, supporting morality","Dual stratification",38,62
+"Eb7","Absent","Dual stratification",41,115
+"Ec1","Otiose","Absence of distinctions",53,142
+"Ec10","Active, supporting morality","Wealth distinctions",62,74
+"Ec2","Active, but not supporting morality","Wealth distinctions",65,125
+"Ec3","Active, but not supporting morality","Wealth distinctions",66,177
+"Ec4","Active, but not supporting morality","Wealth distinctions",68,75
+"Ec5","Active, but not supporting morality","Wealth distinctions",61.99,164.24
+"Ec7","Absent","Absence of distinctions",44,144
+"Ed1","Absent","Complex stratification",38.134147,126.960754
+"Ed15b","Absent","Complex stratification",31,120
+"Ed2","Absent","Dual stratification",29,103
+"Ed5","Otiose","Complex stratification",35,136
+"Ed7","Absent","Dual stratification",26.16,127.8
+"Ed8","Absent","Wealth distinctions",26,100
+"Ed9","Absent","Wealth distinctions",19,109
+"Ee1","Absent","Wealth distinctions",28,95
+"Ee2","Active, supporting morality","Complex stratification",37,75
+"Ee3","Active, but not supporting morality","Wealth distinctions",28,89
+"Ee4","Absent","Complex stratification",30,91
+"Ee5","Absent","Dual stratification",35,73
+"Ee6","Absent","Wealth distinctions",28,87
+"Ee8","Absent","Complex stratification",28,84
+"Ef1","Otiose","Absence of distinctions",24,87
+"Ef11","Otiose","Dual stratification",26,83
+"Ef2","Absent","Complex stratification",23,88
+"Ef5","Active, but not supporting morality","Complex stratification",22,74
+"Ef7","Absent","Complex stratification",30,78
+"Ef8","Active, supporting morality","Complex stratification",34,75
+"Ef9","Absent","Complex stratification",20,77
+"Eg1","Absent","Absence of distinctions",16,79
+"Eg10","Absent","Complex stratification",18,79
+"Eg13","Otiose","Absence of distinctions",20,81
+"Eg14","Absent","Absence of distinctions",18,82
+"Eg3","Active, but not supporting morality","Wealth distinctions",19,81
+"Eg4","Absent","Absence of distinctions",12,77
+"Eg5","Absent","Complex stratification",12,76
+"Eh1","Absent","Absence of distinctions",12,93
+"Eh3","Otiose","Dual stratification",-22,47
+"Eh4","Absent","Absence of distinctions",8,81
+"Eh7","Otiose","Dual stratification",-25,46
+"Eh8","Otiose","Dual stratification",-21,43.93
+"Ei1","Otiose","Wealth distinctions",26,91
+"Ei11","Otiose","Wealth distinctions",25,94
+"Ei12","Otiose","Wealth distinctions",25,94
+"Ei13","Absent","Wealth distinctions",26,94
+"Ei14","Active, but not supporting morality","Wealth distinctions",27,94
+"Ei16","Otiose","Dual stratification",26,95
+"Ei18","Absent","Wealth distinctions",23,97
+"Ei19","Absent","Dual stratification",22,94
+"Ei2","Absent","Wealth distinctions",27,94
+"Ei3","Absent","Complex stratification",20,95
+"Ei4","Active, supporting morality","Dual stratification",22,93
+"Ei5","Active, but not supporting morality","Dual stratification",26,97
+"Ei6","Absent","Wealth distinctions",25,94
+"Ei7","Otiose","Wealth distinctions",17.12,97.19
+"Ei8","Otiose","Dual stratification",26,92
+"Ej1","Absent","Wealth distinctions",20,101
+"Ej10","Absent","Wealth distinctions",13,108
+"Ej11","Absent","Dual stratification",11,108
+"Ej12","Absent","Dual stratification",18,98
+"Ej13","Absent","Dual stratification",21,105
+"Ej14","Absent","Absence of distinctions",4,102
+"Ej15","Otiose","Complex stratification",13,104
+"Ej16","Active, supporting morality","Absence of distinctions",2.58,102.25
+"Ej2","Absent","Wealth distinctions",12,107
+"Ej3","Active, but not supporting morality","Absence of distinctions",5,101
+"Ej4","Absent","Complex stratification",17,107
+"Ej5","Absent","Complex stratification",12,105
+"Ej7","Absent","Absence of distinctions",21,100
+"Ej8","Active, supporting morality","Dual stratification",5,103
+"Ej9","Otiose","Wealth distinctions",15,100
+"Ia1","Absent","Absence of distinctions",24,121
+"Ia10","Otiose","Absence of distinctions",24,121
+"Ia12","Active, supporting morality","Complex stratification",10.2,123.65
+"Ia16","Otiose","Wealth distinctions",18,121
+"Ia2","Absent","Wealth distinctions",17,121
+"Ia3","Absent","Wealth distinctions",17,121
+"Ia4","Absent","Absence of distinctions",8,123
+"Ia6","Absent","Dual stratification",22.44,120.77
+"Ia9","Absent","Absence of distinctions",22.7,121.05
+"Ib1","Absent","Absence of distinctions",2,112
+"Ib2","Absent","Complex stratification",-7,110
+"Ib3","Absent","Complex stratification",-8.18,115.02
+"Ib4","Active, supporting morality","Wealth distinctions",2,99
+"Ib5","Otiose","Wealth distinctions",6,117
+"Ib6","Active, supporting morality","Dual stratification",-1,101
+"Ic1","Active, supporting morality","Dual stratification",-5.31,119.69
+"Ic11","Active, supporting morality","Dual stratification",-3.71,128.18
+"Ic12","Active, supporting morality","Absence of distinctions",-8.63,117.27
+"Ic2","Otiose","Wealth distinctions",-8.22,124.26
+"Id1","Absent","Absence of distinctions",-24,134
+"Id10","Absent","Absence of distinctions",-22,132
+"Id11","Absent","Absence of distinctions",-12.29,134.32
+"Id12","Absent","Absence of distinctions",-15,142
+"Id13","Absent","Absence of distinctions",-13.99,136.6
+"Id2","Absent","Absence of distinctions",-12.48,135.96
+"Id3","Otiose","Absence of distinctions",-11.56,130.81
+"Id4","Absent","Absence of distinctions",-28,138
+"Id8","Absent","Absence of distinctions",-42,146
+"Ie1","Otiose","Wealth distinctions",-4,136
+"Ie10","Absent","Wealth distinctions",-9,147
+"Ie11","Otiose","Absence of distinctions",-6,144
+"Ie12","Absent","Absence of distinctions",-4,142
+"Ie15","Absent","Absence of distinctions",-3.79,143.09
+"Ie17","Absent","Wealth distinctions",-6,145
+"Ie19","Absent","Absence of distinctions",-8,139
+"Ie2","Absent","Absence of distinctions",-6.15,146.53
+"Ie20","Absent","Dual stratification",-9,147
+"Ie23","Absent","Absence of distinctions",-6,141
+"Ie25","Absent","Wealth distinctions",-8,147
+"Ie28","Absent","Wealth distinctions",-6.69,147.26
+"Ie29","Absent","Absence of distinctions",-4.08,145.03
+"Ie3","Absent","Absence of distinctions",-4,144
+"Ie31","Otiose","Wealth distinctions",-6,145
+"Ie33","Otiose","Absence of distinctions",-2,138
+"Ie38","Absent","Absence of distinctions",-4,139
+"Ie39","Absent","Wealth distinctions",-7.82,145.31
+"Ie4","Absent","Absence of distinctions",-3.24,144.1
+"Ie5","Absent","Absence of distinctions",-9,142
+"Ie7","Absent","Absence of distinctions",-6,144
+"Ie9","Absent","Absence of distinctions",-9,148
+"If1","Absent","Dual stratification",7.45,134.54
+"If11","Otiose","Dual stratification",5.31,162.98
+"If14","Otiose","Dual stratification",3.38,172.99
+"If16","Absent","Absence of distinctions",7.46,146.38
+"If17","Absent","Dual stratification",6.28,169.49
+"If2","Absent","Absence of distinctions",7.34,151.6
+"If3","Absent","Dual stratification",7.09,171.13
+"If4","Absent","Absence of distinctions",7.25,144.46
+"If5","Absent","Dual stratification",6.88,158.22
+"If8","Active, supporting morality","Absence of distinctions",15.13,145.71
+"Ig1","Absent","Wealth distinctions",-6,155
+"Ig10","Absent","Absence of distinctions",-2,147
+"Ig11","Otiose","Wealth distinctions",-11.36,154.14
+"Ig12","Absent","Wealth distinctions",-6.69,156.52
+"Ig14","Absent","Wealth distinctions",-10.41,149.91
+"Ig2","Absent","Dual stratification",-8.43,151.09
+"Ig20","Absent","Wealth distinctions",-9.49,159.82
+"Ig3","Absent","Dual stratification",-5.6,154.91
+"Ig4","Absent","Absence of distinctions",-3.06,151.66
+"Ig6","Absent","Absence of distinctions",-9.63,161.44
+"Ig9","Absent","Wealth distinctions",-2,147
+"Ih1","Absent","Wealth distinctions",-13.84,167.7
+"Ih14","Absent","Wealth distinctions",-17.81,178.32
+"Ih3","Absent","Wealth distinctions",-15.95,168.22
+"Ih4","Absent","Wealth distinctions",-17.74,-179.31
+"Ih8","Absent","Absence of distinctions",-17.81,178.32
+"Ii1","Otiose","Dual stratification",-13.68,-172.41
+"Ii12","Absent","Dual stratification",-19.74,-175.07
+"Ii13","Absent","Dual stratification",-13.28,-176.17
+"Ii14","Absent","Dual stratification",-13.94,-171.77
+"Ii2","Absent","Dual stratification",-12.29,168.83
+"Ii3","Otiose","Absence of distinctions",-10.89,-165.84
+"Ii5","Absent","Wealth distinctions",-5.48,159.7
+"Ii7","Absent","Dual stratification",1.09,154.8
+"Ii8","Absent","Dual stratification",-14.31,-178.11
+"Ii9","Absent","Dual stratification",-19.05,-169.86
+"Ij1","Absent","Dual stratification",-21.93,-157.91
+"Ij2","Absent","Dual stratification",-38.41,176.31
+"Ij3","Absent","Dual stratification",-8.9,-140.08
+"Ij4","Absent","Dual stratification",-10.41,-160.98
+"Ij6","Absent","Dual stratification",19.89,-155.83
+"Ij7","Absent","Dual stratification",-23.12,-134.97
+"Ij8","Absent","Dual stratification",-17.71,-149.54
+"Ij9","Absent","Dual stratification",-27.12,-109.36
+"Na1","Absent","Absence of distinctions",63,-141
+"Na10","Absent","Dual stratification",60.72,-146.49
+"Na12","Absent","Wealth distinctions",68,-152
+"Na13","Active, but not supporting morality","Absence of distinctions",65.24,-64.63
+"Na14","Absent","Absence of distinctions",78,-70
+"Na16","Otiose","Absence of distinctions",65,-119
+"Na17","Otiose","Absence of distinctions",61,-120
+"Na19","Active, but not supporting morality","Dual stratification",54,-124
+"Na2","Absent","Wealth distinctions",71,-157
+"Na20","Absent","Wealth distinctions",66,-135
+"Na21","Absent","Absence of distinctions",63,-96
+"Na22","Absent","Absence of distinctions",70,-82
+"Na24","Absent","Absence of distinctions",66,-37
+"Na25","Active, supporting morality","Absence of distinctions",68.66,-51.22
+"Na26","Absent","Dual stratification",62,-144
+"Na27","Otiose","Wealth distinctions",58,-131
+"Na28","Active, supporting morality","Absence of distinctions",56,-123
+"Na29","Absent","Absence of distinctions",58,-117
+"Na3","Absent","Absence of distinctions",69,-110
+"Na30","Absent","Absence of distinctions",60,-105
+"Na31","Absent","Absence of distinctions",51,-85
+"Na32","Absent","Absence of distinctions",48,-72
+"Na33","Absent","Absence of distinctions",52,-98
+"Na35","Otiose","Absence of distinctions",50,-88
+"Na36","Absent","Absence of distinctions",49,-96
+"Na37","Absent","Absence of distinctions",49,-92
+"Na38","Otiose","Absence of distinctions",46,-92
+"Na39","Absent","Absence of distinctions",46,-85
+"Na4","Absent","Absence of distinctions",59,-128
+"Na40","Otiose","Absence of distinctions",46,-82
+"Na41","Otiose","Absence of distinctions",47,-65
+"Na42","Otiose","Absence of distinctions",44,-85
+"Na43","Absent","Absence of distinctions",69,-96
+"Na5","Otiose","Absence of distinctions",58,-70
+"Na6","Absent","Wealth distinctions",60,-166
+"Na7","Absent","Absence of distinctions",53,-83
+"Na8","Otiose","Wealth distinctions",62,-160
+"Na9","Otiose","Dual stratification",53.86,-166.79
+"Nb1","Absent","Dual stratification",54,-132
+"Nb10","Absent","Dual stratification",53,-126
+"Nb11","Absent","Dual stratification",49.16,-125.85
+"Nb12","Absent","Wealth distinctions",51,-125
+"Nb13","Absent","Wealth distinctions",50,-123
+"Nb14","Absent","Wealth distinctions",49.72,-124.97
+"Nb15","Absent","Dual stratification",48.84,-123.27
+"Nb16","Absent","Dual stratification",48,-123
+"Nb17","Absent","Wealth distinctions",47,-122
+"Nb18","Absent","Dual stratification",47.91,-124.59
+"Nb2","Absent","Wealth distinctions",48,-123
+"Nb20","Absent","Dual stratification",44.75,-123.72
+"Nb22","Absent","Dual stratification",58.12,-133.92
+"Nb23","Absent","Dual stratification",52,-128
+"Nb24","Absent","Dual stratification",48.33,-124.62
+"Nb25","Absent","Dual stratification",47.42,-124.16
+"Nb26","Absent","Wealth distinctions",49.01,-122.73
+"Nb27","Absent","Dual stratification",49,-122
+"Nb32","Absent","Wealth distinctions",41,-122
+"Nb33","Absent","Wealth distinctions",41,-123
+"Nb34","Absent","Wealth distinctions",42,-123
+"Nb35","Absent","Wealth distinctions",41,-123
+"Nb36","Otiose","Wealth distinctions",39.81,-123.55
+"Nb38","Absent","Wealth distinctions",40.35,-123.47
+"Nb39","Active, but not supporting morality","Wealth distinctions",39.73,-123.6
+"Nb4","Absent","Wealth distinctions",41,-124
+"Nb5","Absent","Wealth distinctions",60.34,-144.85
+"Nb6","Absent","Wealth distinctions",42,-124
+"Nb7","Absent","Dual stratification",54.64,-130.25
+"Nb8","Absent","Dual stratification",54,-129
+"Nb9","Otiose","Dual stratification",52,-127
+"Nc1","Otiose","Wealth distinctions",39,-122
+"Nc12","Otiose","Wealth distinctions",40,-121
+"Nc13","Absent","Wealth distinctions",39,-121
+"Nc14","Otiose","Wealth distinctions",41,-122
+"Nc15","Otiose","Absence of distinctions",39.34,-123.77
+"Nc16","Otiose","Absence of distinctions",39,-123
+"Nc18","Otiose","Wealth distinctions",39,-123
+"Nc2","Absent","Absence of distinctions",39,-118
+"Nc24","Absent","Wealth distinctions",36,-120
+"Nc29","Otiose","Wealth distinctions",34,-118
+"Nc3","Absent","Wealth distinctions",36,-120
+"Nc30","Otiose","Absence of distinctions",34,-117
+"Nc31","Otiose","Absence of distinctions",33,-116
+"Nc33","Absent","Absence of distinctions",33,-117
+"Nc34","Absent","Absence of distinctions",31,-115
+"Nc4","Absent","Wealth distinctions",41,-121
+"Nc6","Absent","Absence of distinctions",32,-116
+"Nc7","Otiose","Wealth distinctions",40,-123
+"Nc8","Absent","Wealth distinctions",43,-122
+"Nc9","Absent","Wealth distinctions",42,-122
+"Nd1","Active, supporting morality","Wealth distinctions",45,-121
+"Nd11","Absent","Absence of distinctions",51,-120
+"Nd12","Absent","Absence of distinctions",46,-113
+"Nd14","Absent","Wealth distinctions",48,-117
+"Nd15","Otiose","Absence of distinctions",49,-120
+"Nd18","Absent","Wealth distinctions",46,-121
+"Nd2","Otiose","Absence of distinctions",38,-109
+"Nd20","Absent","Wealth distinctions",45,-115
+"Nd22","Absent","Absence of distinctions",43,-119
+"Nd26","Absent","Absence of distinctions",41,-120
+"Nd27","Absent","Absence of distinctions",40,-119
+"Nd3","Absent","Absence of distinctions",36,-112
+"Nd30","Otiose","Absence of distinctions",37,-118
+"Nd4","Active, but not supporting morality","Absence of distinctions",48,-119
+"Nd43","Otiose","Absence of distinctions",41,-117
+"Nd5","Absent","Absence of distinctions",42,-112
+"Nd54","Absent","Absence of distinctions",35,-115
+"Nd6","Absent","Absence of distinctions",39,-120
+"Nd65","Absent","Absence of distinctions",36,-114
+"Nd66","Absent","Absence of distinctions",35,-112
+"Nd67","Absent","Absence of distinctions",34,-114
+"Nd7","Otiose","Absence of distinctions",50,-117
+"Nd9","Absent","Wealth distinctions",50.02,-124.78
+"Ne1","Active, supporting morality","Absence of distinctions",48.78,-108.98
+"Ne11","Otiose","Absence of distinctions",48,-106
+"Ne12","Otiose","Wealth distinctions",51,-112
+"Ne13","Otiose","Wealth distinctions",51,-115
+"Ne14","Otiose","Absence of distinctions",51,-100
+"Ne15","Otiose","Absence of distinctions",47,-101
+"Ne18","Otiose","Wealth distinctions",49,-115
+"Ne19","Otiose","Absence of distinctions",45,-94
+"Ne4","Absent","Absence of distinctions",45,-108
+"Ne5","Absent","Absence of distinctions",39,-104
+"Ne8","Otiose","Absence of distinctions",43,-103
+"Ne9","Absent","Absence of distinctions",40,-103
+"Nf13","Active, supporting morality","Absence of distinctions",37,-85
+"Nf3","Absent","Absence of distinctions",41,-96
+"Nf4","Active, but not supporting morality","Absence of distinctions",40,-86
+"Nf5","Otiose","Absence of distinctions",34,-98
+"Nf6","Otiose","Dual stratification",42,-100
+"Nf7","Active, supporting morality","Absence of distinctions",45,-95
+"Nf8","Active, supporting morality","Dual stratification",31,-95
+"Ng1","Otiose","Wealth distinctions",44,-78
+"Ng10","Otiose","Absence of distinctions",43,-77
+"Ng3","Otiose","Absence of distinctions",33,-84
+"Ng6","Active, but not supporting morality","Absence of distinctions",41,-75
+"Ng7","Otiose","Elite stratification",32,-91
+"Ng8","Absent","Dual stratification",27,-82
+"Nh1","Absent","Absence of distinctions",31,-108
+"Nh10","Absent","Absence of distinctions",35,-107
+"Nh11","Absent","Absence of distinctions",36,-106
+"Nh12","Absent","Wealth distinctions",35,-107
+"Nh16","Absent","Absence of distinctions",36,-104
+"Nh18","Absent","Absence of distinctions",36,-111
+"Nh19","Absent","Absence of distinctions",32,-115
+"Nh20","Absent","Absence of distinctions",33,-115
+"Nh21","Absent","Absence of distinctions",35,-114
+"Nh25","Otiose","Absence of distinctions",36,-107
+"Nh3","Absent","Absence of distinctions",37,-110
+"Nh4","Absent","Absence of distinctions",35,-109
+"Nh5","Absent","Absence of distinctions",33,-113
+"Nh7","Absent","Absence of distinctions",36,-106
+"Nh9","Absent","Absence of distinctions",36,-106
+"Ni1","Active, supporting morality","Wealth distinctions",28,-107
+"Ni2","Active, supporting morality","Absence of distinctions",31,-112
+"Ni5","Absent","Absence of distinctions",22,-100
+"Nj2","Active, but not supporting morality","Complex stratification",19,-99
+"Nj3","Active, supporting morality","Absence of distinctions",18,-95
+"Nj9","Active, supporting morality","Absence of distinctions",19,-98
+"Sa1","Active, supporting morality","Wealth distinctions",9,-78
+"Sa10","Otiose","Absence of distinctions",16.9,-91
+"Sa12","Active, supporting morality","Dual stratification",14,-88
+"Sa13","Active, supporting morality","Wealth distinctions",15,-91
+"Sa3","Otiose","Complex stratification",14,-89
+"Sa4","Otiose","Absence of distinctions",8,-78
+"Sa5","Active, but not supporting morality","Absence of distinctions",9,-83
+"Sa7","Active, supporting morality","Absence of distinctions",16,-89
+"Sa8","Active, supporting morality","Wealth distinctions",15,-92
+"Sa9","Active, supporting morality","Absence of distinctions",14.766,-84.089
+"Sb1","Otiose","Absence of distinctions",15.41,-61.27
+"Sb2","Otiose","Wealth distinctions",11,-74
+"Sb4","Absent","Absence of distinctions",9,-64
+"Sb5","Otiose","Absence of distinctions",11,-72
+"Sb6","Active, but not supporting morality","Wealth distinctions",12,-72
+"Sb7","Otiose","Absence of distinctions",9,-72
+"Sb8","Otiose","Dual stratification",19.94,-75.37
+"Sb9","Active, supporting morality","Complex stratification",18.41,-72.17
+"Sc1","Active, supporting morality","Absence of distinctions",9,-62
+"Sc10","Otiose","Absence of distinctions",5.95,-56.98
+"Sc18","Otiose","Absence of distinctions",5,-54
+"Sc3","Otiose","Absence of distinctions",5,-59
+"Sc4","Absent","Absence of distinctions",5,-69
+"Sc7","Absent","Absence of distinctions",5,-66
+"Sc8","Absent","Absence of distinctions",5,-67
+"Sd1","Absent","Absence of distinctions",-6,-58
+"Sd2","Absent","Absence of distinctions",-11,-52
+"Sd7","Absent","Absence of distinctions",1,-59
+"Sd8","Absent","Absence of distinctions",4,-66
+"Sd9","Absent","Absence of distinctions",2,-65
+"Se1","Otiose","Absence of distinctions",-16,-64
+"Se10","Otiose","Wealth distinctions",1,-79
+"Se2","Otiose","Absence of distinctions",-3,-70
+"Se3","Absent","Absence of distinctions",-3,-78
+"Se4","Absent","Absence of distinctions",-3,-72
+"Se5","Absent","Absence of distinctions",1,-71
+"Se6","Otiose","Absence of distinctions",-1,-74
+"Se8","Absent","Absence of distinctions",-10,-72
+"Se9","Absent","Absence of distinctions",-9,-74
+"Sf1","Otiose","Complex stratification",-13,-72
+"Sf2","Active, supporting morality","Wealth distinctions",-16,-69
+"Sf3","Absent","Absence of distinctions",1,-79
+"Sf4","Otiose","Absence of distinctions",7,-72
+"Sf6","Absent","Dual stratification",5,-72
+"Sf7","Otiose","Absence of distinctions",-8,-75
+"Sg1","Active, supporting morality","Absence of distinctions",-55.02,-68.98
+"Sg2","Active, but not supporting morality","Wealth distinctions",-39,-68
+"Sg3","Otiose","Absence of distinctions",-54,-69
+"Sg4","Otiose","Absence of distinctions",-46,-70
+"Sg5","Absent","Absence of distinctions",-52,-74
+"Sh1","Absent","Absence of distinctions",-24,-63
+"Sh2","Otiose","Dual stratification",-21,-58
+"Sh3","Absent","Dual stratification",-29,-61
+"Sh5","Absent","Absence of distinctions",-22,-62
+"Sh6","Active, but not supporting morality","Dual stratification",-20,-59
+"Sh8","Active, supporting morality","Absence of distinctions",-25,-60
+"Sh9","Otiose","Absence of distinctions",-23,-59
+"Si1","Absent","Absence of distinctions",-16,-55
+"Si10","Absent","Absence of distinctions",-13,-54
+"Si2","Absent","Absence of distinctions",-12,-53
+"Si3","Absent","Absence of distinctions",-14,-55
+"Si4","Absent","Absence of distinctions",-12,-59
+"Si5","Otiose","Absence of distinctions",-12,-54
+"Si7","Absent","Absence of distinctions",-15,-58
+"Si8","Absent","Absence of distinctions",-15,-57
+"Sj1","Absent","Absence of distinctions",-12,-50
+"Sj11","Absent","Absence of distinctions",-14,-52
+"Sj2","Absent","Absence of distinctions",-9,-48
+"Sj3","Absent","Absence of distinctions",-28,-50
+"Sj4","Absent","Absence of distinctions",-7,-45
+"Sj6","Absent","Absence of distinctions",-3,-46
+"Sj7","Otiose","Absence of distinctions",-6,-49
+"Sj8","Otiose","Wealth distinctions",-8,-35
+"ch12","Active, supporting morality","Complex stratification",54,56
+"ch13","Active, supporting morality","Wealth distinctions",58,52
+"ch14","Active, supporting morality","Wealth distinctions",57,53
+"ch15","Active, supporting morality","Elite stratification",53,50
+"ch16","Active, supporting morality","Complex stratification",59,26
+"ch17","Active, supporting morality","Wealth distinctions",45.44,29.32
+"ch18","Active, supporting morality","Wealth distinctions",59,29
+"ch19","Active, supporting morality","Wealth distinctions",64,33
+"ch20","Active, supporting morality","Complex stratification",55,50
+"ch21","Active, supporting morality","Complex stratification",57,24
+"ch22","Active, supporting morality","Complex stratification",55,23
+"ch23","Active, supporting morality","Complex stratification",55,24
+"ch24","Active, supporting morality","Wealth distinctions",57,23
+"ch25","Active, supporting morality","Complex stratification",47,29
+"ch26","Active, supporting morality","Wealth distinctions",57,53
+"ch27","Active, supporting morality","Wealth distinctions",61,35
+"ch28","Active, supporting morality","Wealth distinctions",59,29
+"ec12","Otiose","Absence of distinctions",72,90
+"ec13","Otiose","Absence of distinctions",54.98,161.79
+"ec14","Otiose","Wealth distinctions",64,-173
+"ec15","Otiose","Absence of distinctions",63,62
+"ec16","Otiose","Absence of distinctions",55,112
+"ec17","Otiose","Wealth distinctions",52,134
+"ec18","Otiose","Wealth distinctions",50,136
+"ec19","Otiose","Absence of distinctions",54.01,142.71
+"ec20","Otiose","Absence of distinctions",51,138
+"ec21","Otiose","Absence of distinctions",47,136

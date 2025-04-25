@@ -1,2 +1,2 @@
-# Cogpsylab-Cultural_Analysis_2025
+# Cogpsylab - Cultural Analysis 2025
 cognitive psychology laboratory project
